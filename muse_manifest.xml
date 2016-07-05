@@ -1,0 +1,162 @@
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.deveco.io" resolutions="1x" timestamp="1467711194494">
+  <folder name="css">
+    <file name="site_global.css" crc="3916556066"/>
+    <file name="master_a-__.css" crc="4242490996" ref="about:service:index"/>
+    <file name="nomq_preview_master_a-__.css" crc="4127292526" ref="about:service:index"/>
+    <file name="about.css" crc="3822965785" ref="about"/>
+    <file name="nomq_about.css" crc="371426246" ref="about"/>
+    <file name="service.css" crc="4065556143" ref="service"/>
+    <file name="nomq_service.css" crc="535801923" ref="service"/>
+    <file name="index.css" crc="4132222740" ref="index"/>
+    <file name="nomq_index.css" crc="6661223" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="312386352" ref="index:service:about"/>
+    <file name="museutils.js" crc="4155826306" ref="index:service:about"/>
+    <file name="whatinput.js" crc="86476730" ref="index:service:about"/>
+    <file name="museconfig.js" crc="483509463" ref="index:service:about"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4034513494" ref="index:service:about"/>
+    <file name="jquery.watch.js" crc="117772946" ref="index:service:about"/>
+    <file name="pie.js" crc="3827607177" ref="index:service:about"/>
+    <file name="webpro.js" crc="4078243563" ref="index:service"/>
+    <file name="musewpslideshow.js" crc="4115829919" ref="index:service"/>
+    <file name="jquery.museoverlay.js" crc="3936724022" ref="index:service"/>
+    <file name="touchswipe.js" crc="157639107" ref="index:service"/>
+    <file name="jquery.museresponsive.js" crc="439107114" ref="index:service:about"/>
+    <file name="require.js" crc="228336483" ref="index:service:about"/>
+  </folder>
+  <folder name="images">
+    <file name="貼上的-svg-5787x16.svg" crc="4289933627" seo="true" ref="index:service"/>
+    <file name="貼上的 svg 5787x16_poster_.png" crc="4186470993" ref="index"/>
+    <file name="貼上的-svg-80x50.svg" crc="3842704664" seo="true" ref="index:service:about"/>
+    <file name="貼上的 svg 80x50_poster_.png" crc="484410669" ref="index"/>
+    <file name="貼上的-svg-7055x16.svg" crc="405063977" seo="true" ref="index"/>
+    <file name="貼上的 svg 7055x16_poster_.png" crc="3986546994" ref="index"/>
+    <file name="貼上的-svg-80x502.svg" crc="144936325" seo="true" ref="index:service:about"/>
+    <file name="貼上的 svg 80x50_poster_2.png" crc="4116932558" ref="index"/>
+    <file name="貼上的-svg-80x503.svg" crc="3801812319" seo="true" ref="index:service:about"/>
+    <file name="貼上的 svg 80x50_poster_3.png" crc="3561023" ref="index"/>
+    <file name="貼上的-svg-17438x54.svg" crc="377688292" seo="true" ref="index:service:about"/>
+    <file name="貼上的 svg 17438x54_poster_.png" crc="4006165664" ref="index"/>
+    <file name="brainstorm.jpg" crc="318930127" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:service:about"/>
+    <file name="貼上的-svg-17438x542.svg" crc="428484386" seo="true" ref="index:service"/>
+    <file name="貼上的 svg 17438x54_poster_2.png" crc="189322920" ref="index"/>
+    <file name="貼上的-svg-24833x25.svg" crc="4250647144" seo="true" ref="index"/>
+    <file name="貼上的 svg 24833x25_poster_.png" crc="4133015785" ref="index"/>
+    <file name="貼上的-svg-40728x336.svg" crc="495522920" seo="true" ref="index"/>
+    <file name="貼上的 svg 40728x336_poster_.png" crc="3760106394" ref="index"/>
+    <file name="貼上的-svg-40728x3362.svg" crc="180893535" seo="true" ref="index"/>
+    <file name="貼上的 svg 40728x336_poster_2.png" crc="268297670" ref="index"/>
+    <file name="老齐.jpg" crc="82541660" ref="index"/>
+    <file name="貼上的-svg-30x30.svg" crc="4255250657" seo="true" ref="index"/>
+    <file name="貼上的 svg 30x30_poster_.png" crc="3825551511" ref="index"/>
+    <file name="貼上的-svg-30x302.svg" crc="202768434" seo="true" ref="index"/>
+    <file name="貼上的 svg 30x30_poster_2.png" crc="3877962747" ref="index"/>
+    <file name="貼上的-svg-30x303.svg" crc="3815185776" seo="true" ref="index"/>
+    <file name="貼上的 svg 30x30_poster_3.png" crc="3905951542" ref="index"/>
+    <file name="貼上的-svg-30x304.svg" crc="40743171" seo="true" ref="index"/>
+    <file name="貼上的 svg 30x30_poster_4.png" crc="4197772255" ref="index"/>
+    <file name="陈亮.png" crc="463886449" ref="index"/>
+    <file name="光宇.jpg" crc="418239518" ref="index"/>
+    <file name="1.jpg" crc="267330520" ref="index"/>
+    <file name="2.jpg" crc="365204968" ref="index"/>
+    <file name="3.jpg" crc="4030306797" ref="index"/>
+    <file name="4.jpg" crc="4119663812" ref="index"/>
+    <file name="5.jpg" crc="3907797766" ref="index"/>
+    <file name="貼上的-svg-34x33.svg" crc="3971013574" seo="true" ref="index:service:about"/>
+    <file name="貼上的 svg 34x33_poster_.png" crc="4097170891" ref="index"/>
+    <file name="貼上的-svg-34x332.svg" crc="4167481973" seo="true" ref="index:service:about"/>
+    <file name="貼上的 svg 34x33_poster_2.png" crc="4250341525" ref="index"/>
+    <file name="wechat.jpg" crc="4071146700" seo="true" ref="index:service:about"/>
+    <file name="貼上的-svg-34x34.svg" crc="3836624124" seo="true" ref="index:service:about"/>
+    <file name="貼上的 svg 34x34_poster_.png" crc="328270118" ref="index"/>
+    <file name="貼上的-svg-34x342.svg" crc="4000983367" seo="true" ref="index:service:about"/>
+    <file name="貼上的 svg 34x34_poster_2.png" crc="3961517419" ref="index"/>
+    <file name="老齐-u6375-fr.jpg" crc="132422296" ref="index"/>
+    <file name="陈亮-u6381-fr.png" crc="3796697260" ref="index"/>
+    <file name="光宇-u6387-fr.jpg" crc="80003903" ref="index"/>
+    <file name="1-u137-fr.jpg" crc="30131087" ref="index"/>
+    <file name="2-u136-fr.jpg" crc="3976321668" ref="index"/>
+    <file name="3-u179-fr.jpg" crc="426277976" ref="index"/>
+    <file name="4-u19046-fr.jpg" crc="3783630664" ref="index"/>
+    <file name="5-u19068-fr.jpg" crc="279576603" ref="index"/>
+    <file name="1-u137-fr2.jpg" crc="435036714" ref="index"/>
+    <file name="2-u136-fr2.jpg" crc="183813244" ref="index"/>
+    <file name="3-u179-fr2.jpg" crc="3856138665" ref="index"/>
+    <file name="4-u19046-fr2.jpg" crc="4113562555" ref="index"/>
+    <file name="5-u19068-fr2.jpg" crc="367919460" ref="index"/>
+    <file name="貼上的-svg-40728x3363.svg" crc="180893535" seo="true" ref="index"/>
+    <file name="貼上的 svg 40728x336_poster_3.png" crc="332767058" ref="index"/>
+    <file name="1-u137-fr3.jpg" crc="4000228939" ref="index"/>
+    <file name="2-u136-fr3.jpg" crc="4202171642" ref="index"/>
+    <file name="3-u179-fr3.jpg" crc="441935824" ref="index"/>
+    <file name="4-u19046-fr3.jpg" crc="4177315938" ref="index"/>
+    <file name="5-u19068-fr3.jpg" crc="3873052087" ref="index"/>
+    <file name="1-u137-fr4.jpg" crc="204827703" ref="index"/>
+    <file name="2-u136-fr4.jpg" crc="3894853681" ref="index"/>
+    <file name="3-u179-fr4.jpg" crc="3875464869" ref="index"/>
+    <file name="4-u19046-fr4.jpg" crc="3831356388" ref="index"/>
+    <file name="5-u19068-fr4.jpg" crc="4058706427" ref="index"/>
+    <file name="貼上的-svg-5832x16.svg" crc="136355182" seo="true" ref="service:about"/>
+    <file name="貼上的 svg 5832x16_poster_.png" crc="455049969" ref="service"/>
+    <file name="business-strategic-growth-up-arrow.jpg" crc="357679122" ref="service"/>
+    <file name="貼上的-svg-30481x25.svg" crc="4250052796" seo="true" ref="service"/>
+    <file name="貼上的 svg 30481x25_poster_.png" crc="3869097658" ref="service"/>
+    <file name="貼上的-svg-72x69.svg" crc="65440741" seo="true" ref="service"/>
+    <file name="貼上的 svg 72x69_poster_.png" crc="3992104918" ref="service"/>
+    <file name="貼上的-svg-72x72.svg" crc="3975807141" seo="true" ref="service"/>
+    <file name="貼上的 svg 72x72_poster_.png" crc="4193363275" ref="service"/>
+    <file name="貼上的-svg-87.svg" crc="3789327141" seo="true" ref="service"/>
+    <file name="貼上的 svg 87_poster_.png" crc="4055044127" ref="service"/>
+    <file name="貼上的-svg-144x143.svg" crc="4181994854" seo="true" ref="service"/>
+    <file name="貼上的 svg 144x143_poster_.png" crc="3877619214" ref="service"/>
+    <file name="貼上的-svg-11916x64.svg" crc="152951028" seo="true" ref="service"/>
+    <file name="貼上的 svg 11916x64_poster_.png" crc="355728502" ref="service"/>
+    <file name="juhe.png" crc="3880105455" seo="true" ref="service"/>
+    <file name="貼上的-svg-14621x229.svg" crc="97259316" seo="true" ref="service"/>
+    <file name="貼上的 svg 14621x229_poster_.png" crc="3776598674" ref="service"/>
+    <file name="貼上的-svg-19832x167.svg" crc="3997078084" seo="true" ref="service"/>
+    <file name="貼上的 svg 19832x167_poster_.png" crc="4195696537" ref="service"/>
+    <file name="yiqi-ieu6282-fr.png" crc="4073588848" ref="service"/>
+    <file name="yiqi.jpg" crc="3841133003" ref="service"/>
+    <file name="bd.jpg" crc="4246016778" seo="true" ref="service"/>
+    <file name="sdk.png" crc="285096548" seo="true" ref="service"/>
+    <file name="yiqi-ieu6282-fr2.png" crc="4266229066" ref="service"/>
+    <file name="business-strategic-growth-up-arrow-u3489-fr.jpg" crc="3951523096" ref="service"/>
+    <file name="yiqi-u6282-fr.jpg" crc="522241606" ref="service"/>
+    <file name="business-strategic-growth-up-arrow-u3489-fr2.jpg" crc="119744635" ref="service"/>
+    <file name="yiqi-u6282-fr2.jpg" crc="287120599" ref="service"/>
+    <file name="貼上的-svg-7055x162.svg" crc="405063977" seo="true" ref="about"/>
+    <file name="貼上的 svg 7055x16_poster_2.png" crc="3986546994" ref="about"/>
+    <file name="1pic_hd.jpg" crc="383244450" ref="about"/>
+    <file name="jinjian.jpg" crc="83515807" ref="about"/>
+    <file name="貼上的-svg-190x190.svg" crc="3775274618" seo="true" ref="about"/>
+    <file name="貼上的 svg 190x190_poster_.png" crc="240346592" ref="about"/>
+    <file name="miya.jpg" crc="320993667" ref="about"/>
+    <file name="貼上的-svg-190x1902.svg" crc="3805118900" seo="true" ref="about"/>
+    <file name="貼上的 svg 190x190_poster_2.png" crc="416043082" ref="about"/>
+    <file name="xiaodong.jpg" crc="202647190" ref="about"/>
+    <file name="貼上的-svg-190x1903.svg" crc="123097196" seo="true" ref="about"/>
+    <file name="貼上的 svg 190x190_poster_3.png" crc="4244510806" ref="about"/>
+    <file name="王峰.jpg" crc="118077592" ref="about"/>
+    <file name="貼上的-svg-190x1904.svg" crc="93508385" seo="true" ref="about"/>
+    <file name="貼上的 svg 190x190_poster_4.png" crc="4008430891" ref="about"/>
+    <file name="f0016387.png" crc="196126083" ref="about"/>
+    <file name="貼上的-svg-190x1905.svg" crc="4260172350" seo="true" ref="about"/>
+    <file name="貼上的 svg 190x190_poster_5.png" crc="769127" ref="about"/>
+    <file name="貼上的-svg-190x1906.svg" crc="3867318192" seo="true" ref="about"/>
+    <file name="貼上的 svg 190x190_poster_6.png" crc="3848107585" ref="about"/>
+    <file name="wechat-yy.jpg" crc="4051599125" seo="true" ref="about"/>
+    <file name="貼上的-svg-44x44.svg" crc="228794965" seo="true" ref="about"/>
+    <file name="貼上的 svg 44x44_poster_.png" crc="185614325" ref="about"/>
+    <file name="貼上的-svg-44x442.svg" crc="4253299500" seo="true" ref="about"/>
+    <file name="貼上的 svg 44x44_poster_2.png" crc="4258783082" ref="about"/>
+    <file name="location.jpg" crc="308561604" ref="about"/>
+    <file name="location-u18059-fr.jpg" crc="31844482" ref="about"/>
+    <file name="location-u18059-fr2.jpg" crc="163861052" ref="about"/>
+  </folder>
+  <file name="index.html" crc="472763115" seo="true" mt="1467711084074" redirect="true"/>
+  <file name="service.html" crc="344740875" seo="true" mt="1467710948511" redirect="true"/>
+  <file name="about.html" crc="28460897" seo="true" mt="1467708721863" redirect="true"/>
+</manifest>
